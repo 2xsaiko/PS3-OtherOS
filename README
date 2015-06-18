@@ -1,0 +1,28 @@
+
+CFW341-OTHEROS++.PUP
+---------------------
+* OtherOS++
+* Dispatcher Manager patch (trophy errors on GameOS)
+* Half of HDD space reserved for OtherOS++
+
+CFW355-OTHEROS++.PUP
+---------------------
+* OtherOS++
+* Dispatcher Manager patch (trophy errors on GameOS)
+* Half of HDD space reserved for OtherOS++
+
+CFW355-OTHEROS++-22GB.PUP
+--------------------------
+* OtherOS++
+* No Dispatcher Manager patch (no trophy errors on GameOS)
+* 22GB of HDD space reserved for OtherOS++
+
+CFW355-OTHEROS++-EIGHTH-HDD-SIZE.PUP
+-------------------------------------
+* OtherOS++
+* Dispatcher Manager patch (trophy errors on GameOS)
+* 7/8 of HDD space reserved for OtherOS++
+
+CFW355-OTHEROS++-SPECIAL.PUP
+-----------------------------
+* For QA flag
