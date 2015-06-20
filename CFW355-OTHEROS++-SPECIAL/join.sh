@@ -1,3 +1,5 @@
+#!/bin/bash
+
 rm CFW355-OTHEROS++-SPECIAL.PUP
 echo Joining files...
 touch CFW355-OTHEROS++-SPECIAL.PUP
