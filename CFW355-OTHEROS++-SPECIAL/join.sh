@@ -1,6 +1,7 @@
 #!/bin/bash
 # This file has been automatically generated. Please do not change any part of this file to ensure it is functioning correctly.
 CHECKSUM=e46f9cdc9b471b7bca6ced201d6f49cb
+cd "$(dirname $0)"
 echo "Joining files..."
 rm "./CFW355-OTHEROS++-SPECIAL.PUP" 2> /dev/null
 touch "./CFW355-OTHEROS++-SPECIAL.PUP"
